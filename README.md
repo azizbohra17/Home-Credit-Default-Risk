@@ -1,1 +1,2 @@
-
+### Home Credit Default Risk (HCDR)
+The course project is based on the Home Credit Default Risk (HCDR) Kaggle Competition (https://www.kaggle.com/c/home-credit-default-risk/). The goal of this project is to predict whether or not aclient will repay a loan. In order to make sure that people who struggle to get loans due to insuffi cient or non-existent credit histories have a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
