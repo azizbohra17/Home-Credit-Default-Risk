@@ -36,5 +36,5 @@ The following software and libraries are required to run the code:
 - XGBoost
 - LightGBM
 
-Please refer to the documentation and source code for more detailed instructions on running and using the application.
+Please refer to the documentation and source code for more details on running and using the application.
 
