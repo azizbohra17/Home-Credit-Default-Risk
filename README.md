@@ -5,7 +5,7 @@ This project aims to develop a machine learning model to predict the repayment b
 ## Dataset
 
 The "Home Credit Default Risk" dataset can be found on Kaggle at the following link:
-[https://www.kaggle.com/yourusername/home-credit-default-risk](https://www.kaggle.com/yourusername/home-credit-default-risk)
+[https://www.kaggle.com/competitions/home-credit-default-risk](https://www.kaggle.com/competitions/home-credit-default-risk)
 
 ## Project Overview
 
